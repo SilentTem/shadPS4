@@ -109,8 +109,8 @@
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="59"/>
-			<source>Copy info</source>
-			<translation>Copy info</translation>
+			<source>Copy Info</source>
+			<translation>Copy Info</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="60"/>
@@ -129,13 +129,13 @@
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="195"/>
-			<source>Shortcut creation</source>
-			<translation>Shortcut creation</translation>
+			<source>Shortcut Creation</source>
+			<translation>Shortcut Creation</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="196"/>
-			<source>Shortcut created successfully!\n %1</source>
-			<translation>Shortcut created successfully!\n %1</translation>
+			<source>Shortcut created successfully!\n%1</source>
+			<translation>Shortcut created successfully!\n%1</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="199"/>
@@ -144,8 +144,8 @@
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="200"/>
-			<source>Error creating shortcut!\n %1</source>
-			<translation>Error creating shortcut!\n %1</translation>
+			<source>Error creating shortcut!\n%1</source>
+			<translation>Error creating shortcut!\n%1</translation>
 		</message>
 		<message>
 			<location filename="../gui_context_menus.h" line="275"/>
@@ -157,8 +157,8 @@
 		<name>MainWindow</name>
 		<message>
 			<location filename="../main_window_ui.h" line="310"/>
-			<source>Open/Add Elf Folder</source>
-			<translation>Open/Add Elf Folder</translation>
+			<source>Open/Add ELF Folder</source>
+			<translation>Open/Add ELF Folder</translation>
 		</message>
 		<message>
 			<location filename="../main_window_ui.h" line="312"/>
