@@ -56,8 +56,8 @@
 		<name>GameInstallDialog</name>
 		<message>
 			<location filename="../game_install_dialog.cpp" line="24"/>
-			<source>shadPS4 - Choose directory</source>
-			<translation>shadPS4 - Choose directory</translation>
+			<source>Choose Directory</source>
+			<translation>Choose Directory</translation>
 		</message>
 		<message>
 			<location filename="../game_install_dialog.cpp" line="31"/>
